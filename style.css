@@ -406,6 +406,10 @@ ul
     color: #ff0080;
 }
 
+.socials .fa-github:hover {
+    color: #000000;
+}
+
 /* Footer */
 footer {
     display: flex;
