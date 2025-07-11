@@ -1,3 +1,6 @@
+# ⚠️ Work in Progress  
+This website is still under development. Some features may not function as intended, and mobile responsiveness is currently limited.
+
 # Tourism Website 🌍
 
 Welcome to **Tourism** — a practice tourism website developed by *Yashvardhan Samadhiya*. This project demonstrates web design skills using HTML5, CSS3, and JavaScript. It includes engaging content and layout representative of a small travel company’s homepage.
@@ -8,7 +11,8 @@ Welcome to **Tourism** — a practice tourism website developed by *Yashvardhan 
 
 - [About the Project](#about-the-project)  
 - [Features](#features)  
-- [Technologies Used](#technologies-used)  
+- [Technologies Used](#technologies-used)
+- [Preview](#Preview)  
 - [Installation & Setup](#installation--setup)  
 
 ---
@@ -37,6 +41,12 @@ The site is designed to simulate a homepage for a small tourism or travel guide 
 - **CSS3** – Styling and layout  
 - **JavaScript** – Light interactive elements  
 - **Font Awesome** – Icon support  
+
+---
+
+## Preview
+
+https://yvsedge.github.io/Tourism/
 
 ---
 
