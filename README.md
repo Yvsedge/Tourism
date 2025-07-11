@@ -1,6 +1,6 @@
 # Tourism Website 🌍
 
-Welcome to **Tourism** — a practice tourism website developed by *Yvsedge*. This project demonstrates web design skills using HTML5, CSS3, and JavaScript. It includes engaging content and layout representative of a small travel company’s homepage.
+Welcome to **Tourism** — a practice tourism website developed by *Yashvardhan Samadhiya*. This project demonstrates web design skills using HTML5, CSS3, and JavaScript. It includes engaging content and layout representative of a small travel company’s homepage.
 
 ---
 
