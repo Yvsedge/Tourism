@@ -10,9 +10,6 @@ Welcome to **Tourism** — a practice tourism website developed by *Yvsedge*. Th
 - [Features](#features)  
 - [Technologies Used](#technologies-used)  
 - [Installation & Setup](#installation--setup)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
