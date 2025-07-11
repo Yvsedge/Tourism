@@ -1,5 +1,4 @@
 const panels = document.querySelectorAll(".panel");
-
 const name = document.querySelector("#name");
 const email = document.querySelector("#email");
 const phone = document.querySelector("#phno");
@@ -7,7 +6,7 @@ const submit = document.querySelector(".submit_btn");
 const form = document.querySelector(".info");
 const p = document.querySelector(".info p");
 
-
+/*Used for destination section*/
 panels.forEach((panel) =>{
     panel.addEventListener("click", () => {
         RemovedActive();
@@ -22,6 +21,7 @@ function RemovedActive()
     })
 }
 
+/*Used for the Enquiry Section*/
 form.addEventListener("submit", (e) => {
   e.preventDefault();
 
@@ -38,7 +38,6 @@ form.addEventListener("submit", (e) => {
         p.classList.remove("error");
     }, 1000);
   } else {
-    // If all fields filled, you could submit the data or show success message
     p.textContent = "Form submitted successfully!";
     p.classList.add("success");
     name.value= '';
